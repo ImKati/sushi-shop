@@ -42,7 +42,6 @@ window.addEventListener('click', function (event) {
 											</div>
 
 										</div>
-										<!-- // cart-item__details -->
 
 									</div>
 								</div>
